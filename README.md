@@ -88,7 +88,7 @@ Enhancement of Farmland GIS – Lot2
 ![image](https://user-images.githubusercontent.com/16941074/202847925-c1755762-808f-47f9-98bf-4b3a4e70ef3b.png)
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/16941074/202848172-9517cec9-014a-4f8f-b98e-0f9a01d1e96d.png" alt="Sublime's custom image"/>
+   <img src="https://user-images.githubusercontent.com/16941074/202848243-dada256c-25c7-4ccb-8cfe-531bab40b096.png" alt="Sublime's custom image"/>
 </p>
 
 
