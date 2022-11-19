@@ -179,6 +179,7 @@ Below is the interface of QGIS 3.4.4
 FGIS database module, is for managing farmer’s information.
 
 >1. To install, run “fgis_setup.exe”. Click “Next”.
+
 ![image](https://user-images.githubusercontent.com/16941074/202849913-d86e7391-7e95-42f4-ae04-a31a59ede1f2.png)
 
 >2. Click “Install”.
@@ -192,7 +193,6 @@ FGIS database module, is for managing farmer’s information.
 >4. Click “Finish” after the installation is completed.
 
 ![image](https://user-images.githubusercontent.com/16941074/202849967-a76047d4-aa6e-41b7-8cf0-e82f6e51aa4d.png)
-
 
 
 <a href="https://drive.google.com/drive/folders/1xmEuVfRsk3M3Oapj-fPeYNDcMRbPbOYt?usp=sharing" target="_blank">postgis-bundle-pg10x64-setup-2.5.1-1.exe</a>
