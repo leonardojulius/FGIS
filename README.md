@@ -111,13 +111,22 @@ Enhancement of Farmland GIS – Lot2
 ![image](https://user-images.githubusercontent.com/16941074/202848537-6de96514-c7d3-450a-99da-938a029441df.png)
 
 
->5.  Click “Yes!
+>5. Click “Yes
 
 ![image](https://user-images.githubusercontent.com/16941074/202848572-c1bd5978-85a7-49a2-ab20-58ca28acb281.png)
 
 >6. Click “Yes”
 
 ![image](https://user-images.githubusercontent.com/16941074/202848610-dc2c3e82-38d4-4e14-91ed-b8172e147f3e.png)
+
+>7. Click “Yes”
+
+![image](https://user-images.githubusercontent.com/16941074/202848719-2cad1e2d-c1d5-42bd-89b6-18fc0d97bf66.png)
+
+>8. Installation complete. Click “Close”.
+
+![image](https://user-images.githubusercontent.com/16941074/202848744-0abd4981-8f2b-4027-b1b7-cb46d809d015.png)
+
 
 
 
