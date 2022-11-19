@@ -13,15 +13,23 @@ Enhancement of Farmland GIS – Lot2
   
   
   ###  Scope:
-  ```
-  1. Software And Hardware requirements
-  2. Installation of required Application
+  
+  >1. Software And Hardware requirements
+  >2. Installation of required Application
      -PostgreSQL
      -QGIS
      -FGIS database module
      -FGIS mapping module (plugin for QGIS)
-  ```
+  
+  
  <h2>System Requirements</h2>
+ 
+
+   ### Software:
+  > 1. Operating system: Windows 10 64-bit
+
+
+  
 
 
 
