@@ -136,6 +136,30 @@ Enhancement of Farmland GIS – Lot2
 </p>
 
 
+QGIS is a free and open-source cross-platform desktop geographic information system application that supports viewing, editing, and
+analysis of geospatial data.
+
+For Farmland GIS, QGIS 3.4.4 version will be installed.
+
+>1. To install QGIS 3.4.4, run “QGIS-OSGeo4W-3.4.4-1-Setup-x86_64.exe” Click “Next”
+
+![image](https://user-images.githubusercontent.com/16941074/202849245-72b9d7dc-6bdc-4b86-aec0-37c8c5d8b996.png)
+
+>2. Click “I Agree”.
+
+![image](https://user-images.githubusercontent.com/16941074/202849273-cd99d148-3ed6-4e02-aeeb-04a45603c9fe.png)
+
+>3. In Choose Install Location, leave the destination folder as is. Click “Next”
+
+![image](https://user-images.githubusercontent.com/16941074/202849304-6f3409dd-4b0a-42c2-b565-6df2a8ba247e.png)
+
+
+
+
+
+
+
+
 
 
 
