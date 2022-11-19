@@ -93,10 +93,8 @@ Enhancement of Farmland GIS – Lot2
 
  <h2>PostGIS installation</h2>
 
->1. To install PostGIS, run “postgis-bundle-pg10x64-setup-2.5.1-1.exe.
-<br>
+>1. To install PostGIS, run “postgis-bundle-pg10x64-setup-2.5.1-1.exe.<br>
 <a href="https://drive.google.com/drive/folders/1xmEuVfRsk3M3Oapj-fPeYNDcMRbPbOYt?usp=sharing" target="_blank">postgis-bundle-pg10x64-setup-2.5.1-1.exe</a>
-
 
 ![image](https://user-images.githubusercontent.com/16941074/202848461-e16b612a-16fb-45a6-8be3-ea7942b5034b.png)
 
