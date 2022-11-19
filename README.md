@@ -9,7 +9,7 @@ Enhancement of Farmland GIS – Lot2
     <i>Region 11-Davao Del Sur-IMO</i>
 </p></h1>
   
-  --Arrange By Julius Leonardo
+
   
   
   ###  Scope:
@@ -27,6 +27,20 @@ Enhancement of Farmland GIS – Lot2
 
    ### Software:
   > 1. Operating system: Windows 10 64-bit
+  
+   ### Hardware minimum requirements:
+   > 1. CPU speed: 1 GHz or faster processor
+   > 2. RAM: 2GB for 64-bit
+   > 3. Hard disk space: 20 GB
+   > 4. Graphics card: DirectX 9 or later with WDDM 1.0 Driver
+   
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/16941074/202845446-b3878f4a-243e-49f7-956e-4313b394ffcb.png" alt="Sublime's custom image"/>
+</p>
+
+  ### PosgreSQL Installation:
+
+
 
 
   
