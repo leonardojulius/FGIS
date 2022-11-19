@@ -39,6 +39,9 @@ Enhancement of Farmland GIS – Lot2
 </p>
 
   ### PosgreSQL Installation:
+ >1.To start the installation. Run “postgresql-10.7-1-windows-x64.exe”
+      In Setup interface, click “Next” <br>
+<a href="https://www.w3schools.com/" target="_blank">postgresql-10.7-1-windows-x64.exe</a>
 
 
 
