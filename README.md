@@ -73,6 +73,28 @@ Enhancement of Farmland GIS – Lot2
 
 ![image](https://user-images.githubusercontent.com/16941074/202847776-66573b9a-88a0-4197-a318-39a219697f5a.png)
 
+>9. In Ready to Install, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202847824-5c0f05b8-13e5-487a-9663-d0567c02b64a.png)
+
+
+>10. PostgreSQL installation starts!
+
+![image](https://user-images.githubusercontent.com/16941074/202847841-50c18f34-b355-451d-a89c-5ea643e9eb6d.png)
+
+>11. In this interface, uncheck “Launch Stack Builder at exit?” then click “Finish”. 
+     Optionally, check the “Launch Stack Builder at exit ?” allows to download additional tools like “Postgis” from the internet!
+
+![image](https://user-images.githubusercontent.com/16941074/202847925-c1755762-808f-47f9-98bf-4b3a4e70ef3b.png)
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/16941074/202848172-9517cec9-014a-4f8f-b98e-0f9a01d1e96d.png" alt="Sublime's custom image"/>
+</p>
+
+
+
+
+
 
 
 
