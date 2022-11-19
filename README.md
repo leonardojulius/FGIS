@@ -153,6 +153,24 @@ For Farmland GIS, QGIS 3.4.4 version will be installed.
 
 ![image](https://user-images.githubusercontent.com/16941074/202849304-6f3409dd-4b0a-42c2-b565-6df2a8ba247e.png)
 
+>4. In Choose Component, click “Install”.
+
+![image](https://user-images.githubusercontent.com/16941074/202849420-cec93767-5376-44a7-94cd-51b97ff5a969.png)
+
+>5. Installation started. Wait until installation is completed.
+
+![image](https://user-images.githubusercontent.com/16941074/202849453-ee16da93-6ea7-422f-98fe-cf4527d5632e.png)
+
+>6. Click “Finish”.
+
+![image](https://user-images.githubusercontent.com/16941074/202849476-84e6babb-2c0d-4f86-a74e-67da5885949b.png)
+
+Below is the interface of QGIS 3.4.4
+
+
+![image](https://user-images.githubusercontent.com/16941074/202849553-a74e6a71-dcb2-4768-b39b-1bc0ca89f1bd.png)
+
+
 
 
 
