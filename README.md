@@ -57,6 +57,28 @@ Enhancement of Farmland GIS – Lot2
 
 ![image](https://user-images.githubusercontent.com/16941074/202847315-92bf3648-2c88-4ddf-b865-73551f88ea20.png)
 
+>5. Specify database superuser Password, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202847716-883d95e8-7171-4c0a-9144-f744b8b58c58.png)
+
+>6. Specify database superuser Password, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202847731-27884581-2f15-4b01-811b-151b3d148d85.png)
+
+>7. In Advance Options, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202847757-3dcb4e7d-73ad-4acf-989d-c139a1f890cd.png)
+
+>8. In Pre Installation Summary, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202847776-66573b9a-88a0-4197-a318-39a219697f5a.png)
+
+
+
+
+
+
+
 
 
 
