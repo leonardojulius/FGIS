@@ -6,8 +6,23 @@
 <h1><p align="center">
 Enhancement of Farmland GIS – Lot2
   <br>
-    <i>Region 11-Davao Del Sur-IMO<i>
+    <i>Region 11-Davao Del Sur-IMO</i>
 </p></h1>
+  
+  --Arrange By Julius Leonardo
+  
+  
+  ###  Scope:
+  ```
+  1. Software And Hardware requirements
+  2. Installation of required Application
+     -PostgreSQL
+     -QGIS
+     -FGIS database module
+     -FGIS mapping module (plugin for QGIS)
+  ```
+ <h2>System Requirements</h2>
+
 
 
 
