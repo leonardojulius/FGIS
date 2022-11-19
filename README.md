@@ -91,6 +91,38 @@ Enhancement of Farmland GIS – Lot2
    <img src="https://user-images.githubusercontent.com/16941074/202848243-dada256c-25c7-4ccb-8cfe-531bab40b096.png" alt="Sublime's custom image"/>
 </p>
 
+ <h2>PostGIS installation</h2>
+
+>1. To install PostGIS, run “postgis-bundle-pg10x64-setup-2.5.1-1.exe.
+
+![image](https://user-images.githubusercontent.com/16941074/202848461-e16b612a-16fb-45a6-8be3-ea7942b5034b.png)
+
+>2. In Choose Components, click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202848489-4bb3bd44-cafb-4f41-9c2f-caab4a23e88d.png)
+
+>3. Choose Install Location, leave the “Destination Folder” as is
+    then click “Next”.
+
+![image](https://user-images.githubusercontent.com/16941074/202848521-48fcad99-51bb-406c-b6c1-fadf4dbc8740.png)
+
+>4. PostGIS installation is ongoing, wait until completed! 
+
+![image](https://user-images.githubusercontent.com/16941074/202848537-6de96514-c7d3-450a-99da-938a029441df.png)
+
+
+>5.  Click “Yes!
+
+![image](https://user-images.githubusercontent.com/16941074/202848572-c1bd5978-85a7-49a2-ab20-58ca28acb281.png)
+
+>6. Click “Yes”
+
+![image](https://user-images.githubusercontent.com/16941074/202848610-dc2c3e82-38d4-4e14-91ed-b8172e147f3e.png)
+
+
+
+
+
 
 
 
