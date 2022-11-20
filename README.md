@@ -245,6 +245,26 @@ FGIS database module, is for managing farmer’s information.
 
 ![image](https://user-images.githubusercontent.com/16941074/202881191-83abeb7d-df98-4269-a00b-f376898e06b9.png)
 
+>4. After installation, the plugins toolbars should be visible in QGIS toolbars!
+
+![image](https://user-images.githubusercontent.com/16941074/202881239-201c12b7-43ac-4e86-9450-f56a99787e55.png)
+
+
+> Part of FGIS configuration is the restoration of pre-processed backup files needed by the system to run. The following are backup files need to restore in PostgreSQL database server (1) settings.backup, (2) riskmap.backup and (3) <RIS>.backup
+
+>1. To restore the backup files, open “pgAdmin 4” Management tools
+
+  ![image](https://user-images.githubusercontent.com/16941074/202881262-36b53f82-337d-41b2-a096-7a8a4fdd0955.png)
+
+>2. Login to PostgreSQL server. Specify the password assigned during the  
+     installation PostgreSQL.
+  
+ ![image](https://user-images.githubusercontent.com/16941074/202881265-73cce5dd-f6ba-43dc-8e5c-f5e5dca6f4eb.png)
+
+
+
+
+
 
 
 
