@@ -181,6 +181,8 @@ FGIS database module, is for managing farmer’s information.
 
 >1. To install, run “fgis_setup.exe”. Click “Next”.
 
+<a href="https://drive.google.com/file/d/1XNurYDdTMLHJWB5zTEaHY8n_PDyii8lP/view?usp=sharing">fgis_setup.exe</a>
+
 ![image](https://user-images.githubusercontent.com/16941074/202849913-d86e7391-7e95-42f4-ae04-a31a59ede1f2.png)
 
 >2. Click “Install”.
