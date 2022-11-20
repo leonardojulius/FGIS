@@ -201,8 +201,9 @@ FGIS database module, is for managing farmer’s information.
     To register the component, right-click “regMapWinGIS.cmd” from \Installer\FGIS DB Management System\ocx\MapWinGIS directory and then    
     click “Run as administrator”.
     
-    <a href="https://drive.google.com/drive/folders/1tf5d0sTsqeC_Ukj23Q8tw1HUEknRUYkF?usp=sharing">MapWinGIS.ocx</a>
-    
+
+<a href="https://drive.google.com/drive/folders/1tf5d0sTsqeC_Ukj23Q8tw1HUEknRUYkF?usp=sharing" target="_blank">MapWinGIS.ocx</a>
+
 ![image](https://user-images.githubusercontent.com/16941074/202880553-6e70ed3a-2f31-4d5e-bafd-623f05bf129f.png)
 
 
