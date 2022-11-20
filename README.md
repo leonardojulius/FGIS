@@ -144,6 +144,8 @@ For Farmland GIS, QGIS 3.4.4 version will be installed.
 
 >1. To install QGIS 3.4.4, run “QGIS-OSGeo4W-3.4.4-1-Setup-x86_64.exe” Click “Next”
 
+<a href="https://drive.google.com/file/d/1sjCi9qsZhuCnapCILPvbNmvxi99n8t2_/view?usp=share_link">QGIS-OSGeo4W-3.4.4-1-Setup-x86_64.exe</a>
+
 ![image](https://user-images.githubusercontent.com/16941074/202849245-72b9d7dc-6bdc-4b86-aec0-37c8c5d8b996.png)
 
 >2. Click “I Agree”.
