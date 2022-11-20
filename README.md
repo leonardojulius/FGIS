@@ -271,6 +271,37 @@ FGIS database module, is for managing farmer’s information.
 
 
 
+>5. In Restore (Database) interface,
+
+    a. set Format to “Custom or tar”
+
+    b. Browse or open the backup file to restore.
+        For this sample the ris backup file.        
+
+    c. Set the role name “postgres”.
+
+     d. Click “Restore”. 
+     
+   A notification will appear if the process was
+   successful or failed restoration.
+
+![image](https://user-images.githubusercontent.com/16941074/202911475-9d80a69e-317c-4ef3-9c3e-7bf203d7ad49.png)
+
+![image](https://user-images.githubusercontent.com/16941074/202911610-aa3ed292-2631-4f5c-b6ae-49256d9adf3a.png)
+
+
+>6. To restore the “riskmap” backup. Repeat step 3 – 5.  Input “riskmap” in database name. 
+![image](https://user-images.githubusercontent.com/16941074/202911689-9c13fc91-fb2c-407a-bf86-dc5d7f913c79.png)
+
+>7. To restore the “settings” backup. Repeat step 3 – 5.  Input “settings” in database name!
+![image](https://user-images.githubusercontent.com/16941074/202911720-ceedfb7a-3226-40cc-bef7-171d3e54df8c.png)
+
+
+
+
+
+
+
 
 
 
