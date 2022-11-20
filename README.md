@@ -261,7 +261,7 @@ FGIS database module, is for managing farmer’s information.
   
 ![image](https://user-images.githubusercontent.com/16941074/202881289-e82db728-bc13-419c-a635-fc62aba4fcde.png)
 
->3. Create a Database where the backup will be saved. To create a database, right-click “Databases” on the left panel of the pgAdmin 4 interface![image](https://user-
+>3. Create a Database where the backup will be saved. To create a database, right-click “Databases” on the left panel of the pgAdmin 4 interface.
 
 ![image](https://user-images.githubusercontent.com/16941074/202881298-1263de90-ff7a-432c-a272-e51ce7c5fc6d.png)
 
