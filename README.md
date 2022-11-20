@@ -226,6 +226,9 @@ FGIS database module, is for managing farmer’s information.
 ![image](https://user-images.githubusercontent.com/16941074/202881096-401d690b-cfcf-45e0-910c-57a247586855.png)
 
 >3. Install plugins in QGIS!
+
+
+
   ```
     a. To load the plugins, open QGIS 3.4.
     b. In “Plugins” menu, click “Manage and Install Plugins
@@ -237,6 +240,8 @@ FGIS database module, is for managing farmer’s information.
                 c.5. “wdd”
                 c.6. “wdd_fis”
     d. Click “Close” 
+    
+   ```
 
 ![image](https://user-images.githubusercontent.com/16941074/202881191-83abeb7d-df98-4269-a00b-f376898e06b9.png)
 
