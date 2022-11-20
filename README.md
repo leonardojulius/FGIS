@@ -259,7 +259,16 @@ FGIS database module, is for managing farmer’s information.
 >2. Login to PostgreSQL server. Specify the password assigned during the  
      installation PostgreSQL.
   
- ![image](https://user-images.githubusercontent.com/16941074/202881265-73cce5dd-f6ba-43dc-8e5c-f5e5dca6f4eb.png)
+![image](https://user-images.githubusercontent.com/16941074/202881289-e82db728-bc13-419c-a635-fc62aba4fcde.png)
+
+>3. Create a Database where the backup will be saved. To create a database, right-click “Databases” on the left panel of the pgAdmin 4 interface![image](https://user-
+
+![image](https://user-images.githubusercontent.com/16941074/202881298-1263de90-ff7a-432c-a272-e51ce7c5fc6d.png)
+
+>4. In Create - Database interface, specify database name in “General” tab, for this sample specify the RIS name. Set the Owner to “postgres”. Click “Save”.
+
+![image](https://user-images.githubusercontent.com/16941074/202881308-10b895c8-f236-4dd4-b3b2-a86ef0763d32.png)
+
 
 
 
