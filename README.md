@@ -321,15 +321,31 @@ FGIS database module, is for managing farmer’s information.
 
 ![image](https://user-images.githubusercontent.com/16941074/203055503-40b85866-1265-49d1-8fde-1debb64ddf36.png)
 
+>6. Once the connection is entered, connection list, add, edit, delete interface will show.
+  
+>7. Click add button.
+
+![image](https://user-images.githubusercontent.com/16941074/203056769-bee891e1-e978-46fa-9e97-285fa677c44f.png)
 
 
+>8. Add connection will show.
+  
+>9. Click test to test the connection to the server
 
+![image](https://user-images.githubusercontent.com/16941074/203057049-906eca73-168d-4d4f-947f-944d99f51e11.png)
+  
+>10. Select the ris to connect.
 
+![image](https://user-images.githubusercontent.com/16941074/203057316-7695357e-1a50-49c0-b4b3-281e893a7923.png)
 
+>11. Once the ris is selected.
+  
+>12. Click OK button to save or cancel to cancel the transaction.
 
-
-
-
+![Uploading image.png…]()
+  
+>13. 13. The connection is set, restart the application.
+![Uploading image.png…]() 
 
 
 
