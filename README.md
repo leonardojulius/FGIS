@@ -342,10 +342,46 @@ FGIS database module, is for managing farmer’s information.
   
 >12. Click OK button to save or cancel to cancel the transaction.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/16941074/203058242-1f6bd85a-9e7f-44cb-8bae-b24ee3af988f.png)
+
+>13. The connection is set, restart the application.
+
+![image](https://user-images.githubusercontent.com/16941074/203058328-4aa3b23a-5d9f-4761-9836-0174d85f1bac.png)
+
+>1. Once Log in as administrator (system admin, or ris admin).
   
->13. 13. The connection is set, restart the application.
-![Uploading image.png…]() 
+>2. Go to setting dashboard.
+
+![image](https://user-images.githubusercontent.com/16941074/203058437-b7126f1b-ef41-4691-a35e-87d5f63aea80.png)
+
+>3. Click Add button.
+  
+>4. Add connection interface will show.
+
+![image](https://user-images.githubusercontent.com/16941074/203058770-240c4505-0ea6-43b6-a2fb-54faff4e6bb7.png)
+
+
+>5. Click RIS button to add new ris (existing ris database in the specified server).
+  
+>6. RIS interface will show.
+
+![image](https://user-images.githubusercontent.com/16941074/203059115-bc3c82e4-7e7d-45e9-8c8e-86cf85aa880a.png)
+
+>7. Select the ris or the database name.
+  
+>8. Description will automatically supply.
+![image](https://user-images.githubusercontent.com/16941074/203059293-0095df1b-2c4f-450c-8903-d51f10676792.png)
+
+>9. Select ris region for the region of database.
+  
+>10. Then click add button.
+![image](https://user-images.githubusercontent.com/16941074/203059439-4875551f-2bb0-497d-be9c-089d881522b1.png)
+
+>11. New ris will be added to ris records.
+  
+>12. Click close button.
+
+![image](https://user-images.githubusercontent.com/16941074/203059541-2004f971-f6ee-4547-b279-844ad2d75b4d.png)
 
 
 
