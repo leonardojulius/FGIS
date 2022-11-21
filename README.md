@@ -370,11 +370,13 @@ FGIS database module, is for managing farmer’s information.
 >7. Select the ris or the database name.
   
 >8. Description will automatically supply.
+  
 ![image](https://user-images.githubusercontent.com/16941074/203059293-0095df1b-2c4f-450c-8903-d51f10676792.png)
 
 >9. Select ris region for the region of database.
   
 >10. Then click add button.
+  
 ![image](https://user-images.githubusercontent.com/16941074/203059439-4875551f-2bb0-497d-be9c-089d881522b1.png)
 
 >11. New ris will be added to ris records.
