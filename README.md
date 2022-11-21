@@ -305,12 +305,21 @@ FGIS database module, is for managing farmer’s information.
 </p>
 </h1>
 
+  
 >1. Run FGIS.exe application in administrator (for first time installed).
+>2. The system will show a message “Connection not configured. Set Configuration Settings.”.
 
->2.The system will show a message “Connection not configured. Set Configuration Settings.”.
+![image](https://user-images.githubusercontent.com/16941074/203053106-dd17a94e-d712-4151-91ce-6a387007a420.png)
+  
+>3. In system setting dashboard, click system configuration!
 
+![image](https://user-images.githubusercontent.com/16941074/203053303-9fa05d9d-bb4d-4172-bbc6-02a9fa1a9f30.png)
 
+>4. Connection configuration interface will show.
+  
+>5. Enter the following server information: host/ip, port, username, password
 
+![image](https://user-images.githubusercontent.com/16941074/203055503-40b85866-1265-49d1-8fde-1debb64ddf36.png)
 
 
 
