@@ -385,12 +385,60 @@ FGIS database module, is for managing farmer’s information.
 
 ![image](https://user-images.githubusercontent.com/16941074/203059541-2004f971-f6ee-4547-b279-844ad2d75b4d.png)
 
+>13. Now the ris is available for the connection configuration!
+
+![image](https://user-images.githubusercontent.com/16941074/203060007-ac032c2f-6053-4b0f-925d-a572c88aa113.png)
 
 
+>1. For creation of users in fgis, must log in as ris administrator.
 
+>2. Enter the admin account and select the ris, click login button.
 
+![image](https://user-images.githubusercontent.com/16941074/203060698-2b20e9c0-e5af-4ce3-b392-b45c6a22de08.png)
 
+>3. Message will show notifying the you are an administrator for that ris.
+  
+>4. Click OK.
 
+![image](https://user-images.githubusercontent.com/16941074/203060820-c915f2f4-aa54-48f3-8e23-56413c183d99.png)
+
+>5. Go to settings dashboard, it will show all the available functions for ris admin.
+  
+>6. Click Users button.
+
+![image](https://user-images.githubusercontent.com/16941074/203060953-e316feba-73b4-4388-97f6-29189e450e50.png)
+
+>7. User interface will show.
+  
+>8. To add new user, click add button
+
+![image](https://user-images.githubusercontent.com/16941074/203067494-84762cd5-4efc-4dfe-a0c5-6f615e7a9003.png)
+
+>9. Enter the new user information.
+  
+>10. In access infor, select the ris to be access, R/W = read and write, R = read, N/A = no access.
+
+![image](https://user-images.githubusercontent.com/16941074/203067680-bbcfdb8c-ceaa-4b15-9bc1-331de9d04363.png)
+
+>11. Click add button, new user will be added.
+  
+>12. To add picture for the user, select the user then click edit button.
+
+![image](https://user-images.githubusercontent.com/16941074/203067769-09666b91-edb9-4554-a3ed-3d5c0b50f2f0.png)
+
+>13. Click upload button to upload picture for the user.
+  
+>14. Browse the picture the click open button.
+
+![image](https://user-images.githubusercontent.com/16941074/203068710-a87da41d-a938-41c6-9655-19dff946e23c.png)
+
+>15. Click save button to save.
+
+![image](https://user-images.githubusercontent.com/16941074/203068800-1da4aa2f-3c58-41ec-ad2a-ae938988cf11.png)
+
+>16. Now the user have picture!
+
+![image](https://user-images.githubusercontent.com/16941074/203068857-554e7c03-9c52-45cb-a934-e85e66af6da2.png)
 
 
 
