@@ -68,8 +68,7 @@ Refers to the hardware and software resources of an entire network that enable c
 
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/16941074/203336000-fd85efd0-60d6-43b1-b448-248e0f8d5202.png">
+<img src="https://user-images.githubusercontent.com/16941074/203336607-2971c97b-3acf-4a21-a913-6e2831b95363.png">
 </p>
 
 
