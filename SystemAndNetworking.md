@@ -74,6 +74,5 @@ Refers to the hardware and software resources of an entire network that enable c
 
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/16941074/203336221-46ff1972-f217-442a-939b-67614027a3fe.png">
+<img src="https://user-images.githubusercontent.com/16941074/203336418-5907b4e8-344e-41c0-9e91-cdc8bf69c813.png">
 </p>
