@@ -21,15 +21,41 @@ Refers to the hardware and software resources of an entire network that enable c
 </p>
   </h3>
   
-### <h3> Most Typical Network Infrastructure: </h3>
+  <br>
+  
+<h1><p align="center">  Most Typical Network Infrastructure:</p> </h1>
 
-##  Network Hardware
+
+##  Network Hardware:
 ```
 
     ├── Routers/Wireless Routers
     ├── Network Hubs
     ├── Network Switches
     └── LAN Cards
+       
+```
+
+##  Network Software:
+```
+
+    ├── Network Operation and Management
+    ├── Operating System
+    ├── Firewall
+    └── Network Security Applications
+
+       
+```
+
+##  Network Services:
+```
+
+    ├── T-1 Line
+    ├── DSL (Digital Subscriber Line)
+    ├── Satellite Internet Access
+    ├── Wireless Protocol
+    └── Wireless Protocol
+
        
 ```
 
