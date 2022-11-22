@@ -59,4 +59,10 @@ Refers to the hardware and software resources of an entire network that enable c
        
 ```
 
+## Basic Establishment of Network Infrastructure 
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/16941074/203335675-87a81a22-e3b8-4364-add1-3994ff6bb847.png">
+</p>
 
